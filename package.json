@@ -1,0 +1,24 @@
+{
+  "name": "@kngai/leaflet.timezones",
+  "version": "1.0.0",
+  "description": "Overlay timezones on a Leaflet Earth Map",
+  "main": "L.timezones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kngai/Leaflet.timezones.git"
+  },
+  "keywords": [
+    "leaflet",
+    "timezones",
+    "geojson"
+  ],
+  "author": "kngai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kngai/Leaflet.timezones/issues"
+  },
+  "homepage": "https://github.com/kngai/Leaflet.timezones#readme"
+}
